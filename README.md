@@ -19,7 +19,7 @@
 - **Pandas & NumPy** (for data handling)  
 
 ## 🚀 How It Works  
-1. Upload a resume file (PDF/DOCX).  
+1. Upload a resume file PDF.  
 2. The system extracts relevant information.  
 3. Machine learning model analyzes and scores resumes.  
 4. Displays ranked resumes based on the match percentage.  
