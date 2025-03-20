@@ -1,3 +1,5 @@
+(https://github.com/user-attachments/assets/21c0a79c-79eb-4c0f-8891-77f26ad525f8)
+
 # 🧠 AI Resume Screening & Ranking System  
 
 🚀 **An AI-powered Resume Screening & Ranking System** built using **Scikit-Learn, Streamlit, and Python** to automate resume evaluation and ranking based on predefined criteria.  
@@ -22,10 +24,7 @@
 1. Upload a resume file PDF.  
 2. The system extracts relevant information.  
 3. Machine learning model analyzes and scores resumes.  
-4. Displays ranked resumes based on the match percentage.  
-
-## 📸 Demo  
-![Demo GIF](link-to-demo.gif) *(Replace with actual link)*  
+4. Displays ranked resumes based on the match percentage.    
 
 ## 📌 Installation  
 ```bash
